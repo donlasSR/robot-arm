@@ -1,5 +1,6 @@
 #robot-arm
-#A robotic arm model for loading objects into a
+
+##A robotic arm model for loading objects into a bucket
 
 โปรเจกต์นี้เป็นการจำลองหุ่นยนต์ใน Webots ที่สามารถตรวจจับผลไม้ (แอปเปิล, ส้ม, ลูกบอลแดง) โดยใช้กล้อง และควบคุมแขนกลเพื่อแยกแยะวัตถุลงในกล่องที่ถูกต้องโดยอัตโนมัติ พร้อมทั้งมีระบบ Supervisor ปล่อยผลไม้อัตโนมัติลงบนสายพาน
 
